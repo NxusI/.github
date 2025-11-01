@@ -43,4 +43,4 @@ Atualmente, nosso principal foco de desenvolvimento é o **Sistema Integrado de 
 
 ## 💻 Nossos Repositórios
 
-[Link para o repositório principal do SIG-Manutenção]
+[Sistema Integrado de Gestão da Célula de Manutenção](https://github.com/NxusI/SIG-Manutencao)
