@@ -1,4 +1,4 @@
-# NxsusI
+# NxusI
 
 <p align="center">
   <img src="/assets/NomeEquipeFull.svg" alt="Logomarca da Equipe Nexus One" width="200"/>
@@ -6,7 +6,7 @@
 
 ## 📝 Descrição da Equipe e Projeto
 
-Nós somos a equipe **Nexus One**, um grupo de estudantes do curso de **Sistemas e Mídias Digitais** do departamento **UFC-Virtual** da **Unversidade Federal do Ceará**, dedicado a aplicar nossos conhecimentos em desenvolvimento de software e outras áreas para gerar uma solução inovadora para a disciplina **Projeto Integrado I**
+Nós somos a equipe **Nexus One**, um grupo de estudantes do curso de **Sistemas e Mídias Digitais** que integra o **Instituto UFC Virtual** da **Unversidade Federal do Ceará**, dedicados a aplicar nossos conhecimentos em desenvolvimento de software e outras áreas para gerar uma solução inovadora para a disciplina de **Projeto Integrado I**
 
 Este repositório hospeda o projeto **Sistema Integrado de Gestão da Célula de Manutenção (SIG-Manutenção)**, desenvolvido em parceria com o **Instituto Robótica Sustentável**.
 
