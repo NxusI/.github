@@ -25,8 +25,8 @@ Este repositório hospeda o projeto **Sistema Integrado de Gestão da Célula de
 
 | **Nome Completo** | **Contato** |
 | :--- | :--- |
-| Cátia Luzia Oliveira da Silva | [email institucional](catia@virtual.ufc.br) |
-| Wellington Wagner Ferreira Sarmento | [email institucional](wwagner@virtual.ufc.br) |
+| Cátia Luzia Oliveira da Silva | [Email Institucional](catia@virtual.ufc.br) |
+| Wellington Wagner Ferreira Sarmento | [Email Institucional](wwagner@virtual.ufc.br) |
 
 ---
 
@@ -34,9 +34,9 @@ Este repositório hospeda o projeto **Sistema Integrado de Gestão da Célula de
 
 | **Função no Projeto** | **Nome Completo** | **GitHub / Contato** |
 | :--- | :--- | :--- |
-| Design - prototipaçao | **Brunna Raiany Moura Dos Santos** | [Link do GitHub](https://github.com/brunnaraiany) |
-| Design - Prototipaçao - Front  | **Fernando De Oliveira Barros** | [Link do GitHub](https://github.com/fernandobarolli) |
-| Banco de Dados - Back | **Gabriel Vitor Sales Nascimento** | [Link do GitHub](https://github.com/PokeGV) |
-| Gestão - Design - Prototipaçao - Front - Back| **Maria Leydiane De Melo Conceição** | [Link do GitHub](https://github.com/l4addy) |
-| Banco de Dados - Back | **Samuel Bruno Silva Secunde** | [Link do GitHub](https://github.com/samuelsecunde) |
-| Design - Prototipaçao - Front | **Túlio de Oliveira Vasconcelos** | [Link do GitHub](https://github.com/tuliolivas) |
+| Design - prototipaçao | Brunna Raiany Moura Dos Santos | [Link do GitHub](https://github.com/brunnaraiany) |
+| Design - Prototipaçao - Front  | Fernando De Oliveira Barros | [Link do GitHub](https://github.com/fernandobarolli) |
+| Banco de Dados - Back | Gabriel Vitor Sales Nascimento | [Link do GitHub](https://github.com/PokeGV) |
+| Gestão - Design - Prototipaçao - Front - Back| Maria Leydiane De Melo Conceição | [Link do GitHub](https://github.com/l4addy) |
+| Banco de Dados - Back | Samuel Bruno Silva Secunde | [Link do GitHub](https://github.com/samuelsecunde) |
+| Design - Prototipaçao - Front | Túlio de Oliveira Vasconcelos | [Link do GitHub](https://github.com/tuliolivas) |
