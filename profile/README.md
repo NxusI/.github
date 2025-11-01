@@ -1,4 +1,4 @@
-# NxusI
+# Nexus One
 
 <p align="center">
   <img src="/assets/NomeEquipeFull.svg" alt="Logomarca da Equipe Nexus One" width="400"/>
@@ -23,16 +23,16 @@ Este repositório hospeda o projeto **Sistema Integrado de Gestão da Célula de
 
 ## 🧑‍🏫 Professores Orientadores
 
-| Nome Completo | Contato |
+| **Nome Completo** | **Contato** |
 | :--- | :--- |
-| **Cátia Luzia Oliveira da Silva** | catia@virtual.ufc.br |
-| **Wellington Wagner Ferreira Sarmento** | wwagner@virtual.ufc.br |
+| Cátia Luzia Oliveira da Silva | [email institucional](catia@virtual.ufc.br) |
+| Wellington Wagner Ferreira Sarmento | [email institucional](wwagner@virtual.ufc.br) |
 
 ---
 
 ## 👥 Membros da Equipe - Nexus One
 
-| Função no Projeto | Nome Completo | GitHub / Contato |
+| **Função no Projeto** | **Nome Completo** | **GitHub / Contato** |
 | :--- | :--- | :--- |
 | Design - prototipaçao | **Brunna Raiany Moura Dos Santos** | [Link do GitHub](https://github.com/brunnaraiany) |
 | Design - Prototipaçao - Front  | **Fernando De Oliveira Barros** | [Link do GitHub](https://github.com/fernandobarolli) |
