@@ -21,7 +21,7 @@ Este repositório hospeda o projeto **Sistema Integrado de Gestão da Célula de
 
 ---
 
-## :person_teaching: Professores Orientadores
+## 🧑‍🏫 Professores Orientadores
 
 | Nome Completo | Contato |
 | :--- | :--- |
