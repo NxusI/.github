@@ -25,10 +25,12 @@ Este repositório hospeda o projeto **Sistema Integrado de Gestão da Célula de
 
 | Função no Projeto | Nome Completo | GitHub / Contato |
 | :--- | :--- | :--- |
-| Membro da Equipe | **Brunna Raiany Moura Dos Santos** | [Link do GitHub ou LinkedIn] |
-| Membro da Equipe | **Fernando De Oliveira Barros** | [Link do GitHub ou LinkedIn] |
-| Membro da Equipe | **Gabriel Vitor Sales Nascimento** | [Link do GitHub ou LinkedIn] |
-| Membro da Equipe | **Maria Leydiane De Melo Conceição** | [Link do GitHub ou LinkedIn] |
-| Membro da Equipe | **Samuel Bruno Silva Secunde** | [Link do GitHub ou LinkedIn] |
-| Membro da Equipe | **Túlio de Oliveira Vasconcelos** | [Link do GitHub ou LinkedIn] |
-| **Professores Orientadores** | [Nome do Professor(a)] | [E-mail ou Contato Institucional] |
+| Design - prototipaçao | **Brunna Raiany Moura Dos Santos** | Link do GitHub |
+| Design - Prototipaçao - Front  | **Fernando De Oliveira Barros** | Link do GitHub |
+| Banco de Dados - Back | **Gabriel Vitor Sales Nascimento** | Link do GitHub |
+| Gestão - Design - Prototipaçao - Front - Back| **Maria Leydiane De Melo Conceição** | Link do GitHub |
+| Banco de Dados - Back | **Samuel Bruno Silva Secunde** | Link do GitHub |
+| Design - Prototipaçao - Front | **Túlio de Oliveira Vasconcelos** | Link do GitHub |
+| **Professores Orientadores** | 
+| Cátia Luzia Oliveira da Silva | catia@virtual.ufc.br |
+| Wellington Wagner Ferreira Sarmento | wwagner@virtual.ufc.br |
