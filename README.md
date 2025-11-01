@@ -1,7 +1,7 @@
 # NxsusI
 
 <p align="center">
-  <img src="/NexusOne/IdViz/NomeEquipeFull.svg" alt="Logomarca da Equipe Nexus One" width="200"/>
+  <img src="/Assets/NomeEquipeFull.svg" alt="Logomarca da Equipe Nexus One" width="200"/>
 </p>
 
 ## 📝 Descrição da Equipe e Projeto
