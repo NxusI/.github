@@ -21,6 +21,15 @@ Este repositório hospeda o projeto **Sistema Integrado de Gestão da Célula de
 
 ---
 
+## :person_teaching: Professores Orientadores
+
+| Nome Completo | Contato |
+| :--- | :--- |
+| **Cátia Luzia Oliveira da Silva** | catia@virtual.ufc.br |
+| **Wellington Wagner Ferreira Sarmento** | wwagner@virtual.ufc.br |
+
+---
+
 ## 👥 Membros da Equipe - Nexus One
 
 | Função no Projeto | Nome Completo | GitHub / Contato |
@@ -31,5 +40,3 @@ Este repositório hospeda o projeto **Sistema Integrado de Gestão da Célula de
 | Gestão - Design - Prototipaçao - Front - Back| **Maria Leydiane De Melo Conceição** | Link do GitHub |
 | Banco de Dados - Back | **Samuel Bruno Silva Secunde** | Link do GitHub |
 | Design - Prototipaçao - Front | **Túlio de Oliveira Vasconcelos** | Link do GitHub |
-| Professores Orientadores | **Cátia Luzia Oliveira da Silva** | catia@virtual.ufc.br |
-| Professores Orientadores | **Wellington Wagner Ferreira Sarmento** | wwagner@virtual.ufc.br |
