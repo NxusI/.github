@@ -34,9 +34,9 @@ Este repositório hospeda o projeto **Sistema Integrado de Gestão da Célula de
 
 | Função no Projeto | Nome Completo | GitHub / Contato |
 | :--- | :--- | :--- |
-| Design - prototipaçao | **Brunna Raiany Moura Dos Santos** | Link do GitHub |
-| Design - Prototipaçao - Front  | **Fernando De Oliveira Barros** | Link do GitHub |
-| Banco de Dados - Back | **Gabriel Vitor Sales Nascimento** | Link do GitHub |
-| Gestão - Design - Prototipaçao - Front - Back| **Maria Leydiane De Melo Conceição** | Link do GitHub |
-| Banco de Dados - Back | **Samuel Bruno Silva Secunde** | Link do GitHub |
-| Design - Prototipaçao - Front | **Túlio de Oliveira Vasconcelos** | Link do GitHub |
+| Design - prototipaçao | **Brunna Raiany Moura Dos Santos** | [Link do GitHub](https://github.com/brunnaraiany) |
+| Design - Prototipaçao - Front  | **Fernando De Oliveira Barros** | [Link do GitHub](https://github.com/fernandobarolli) |
+| Banco de Dados - Back | **Gabriel Vitor Sales Nascimento** | [Link do GitHub](https://github.com/PokeGV) |
+| Gestão - Design - Prototipaçao - Front - Back| **Maria Leydiane De Melo Conceição** | [Link do GitHub](https://github.com/l4addy) |
+| Banco de Dados - Back | **Samuel Bruno Silva Secunde** | [Link do GitHub](https://github.com/samuelsecunde) |
+| Design - Prototipaçao - Front | **Túlio de Oliveira Vasconcelos** | [Link do GitHub](https://github.com/tuliolivas) |
