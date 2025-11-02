@@ -15,7 +15,7 @@ Atualmente, nosso principal foco de desenvolvimento é o **Sistema Integrado de 
 ## 🏛️ Identificação Institucional
 
 * **Universidade:** Universidade Federal do Ceará
-* **Unidade Acadêmica:** Instituto UFC Virtual
+* **Unidade Acadêmica:** Instituto Universidade Virtual
 * **Curso:** Sistemas e Mídias Digitais
 * **Disciplina:** Projeto Integrado I
 
