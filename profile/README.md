@@ -34,12 +34,12 @@ Atualmente, nosso principal foco de desenvolvimento é o **Sistema Integrado de 
 
 | **Nome Completo** | **Função no Projeto** | **GitHub** |
 | :--- | :--- | :--- |
-| Brunna Raiany Moura Dos Santos | Design - prototipaçao | [GitHub](https://github.com/brunnaraiany) |
-| Fernando De Oliveira Barros | Design - Prototipaçao - Front  | [GitHub](https://github.com/fernandobarolli) |
+| Brunna Raiany Moura Dos Santos | Design - Prototipação | [GitHub](https://github.com/brunnaraiany) |
+| Fernando De Oliveira Barros | Design - Prototipação - Front  | [GitHub](https://github.com/fernandobarolli) |
 | Gabriel Vitor Sales Nascimento | Banco de Dados - Back | [GitHub](https://github.com/PokeGV) |
-| Maria Leydiane De Melo Conceição | Gestão - Design - Prototipaçao - Front - Back | [GitHub](https://github.com/l4addy) |
+| Maria Leydiane De Melo Conceição | Gestão - Design - Prototipação - Front - Back | [GitHub](https://github.com/l4addy) |
 | Samuel Bruno Silva Secunde | Banco de Dados - Back | [GitHub](https://github.com/samuelsecunde) |
-| Túlio de Oliveira Vasconcelos | Design - Prototipaçao - Front | [GitHub](https://github.com/tuliolivas) |
+| Túlio de Oliveira Vasconcelos | Design - Prototipação - Front | [GitHub](https://github.com/tuliolivas) |
 
 ## 💻 Nossos Repositórios
 
