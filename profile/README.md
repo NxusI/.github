@@ -6,7 +6,7 @@
 
 ## 📝 Quem Somos
 
-Nós somos a equipe **Nexus One**, um grupo de estudantes do curso de **Sistemas e Mídias Digitais** que integra o **Instituto UFC Virtual** da **Universidade Federal do Ceará**. Somos dedicados a integrar as competências de **Desenvolvimento de Sistemas**, **Design de Interação (UX/UI)** e **Prototipação Digital** para construir soluções tecnológicas completas e eficientes.
+Nós somos a equipe **Nexus One**, um grupo de estudantes do curso de **Sistemas e Mídias Digitais** que integra o **Instituto Universidade Virtual** da **Universidade Federal do Ceará**. Somos dedicados a integrar as competências de **Desenvolvimento de Sistemas**, **Design de Interação (UX/UI)** e **Prototipação Digital** para construir soluções tecnológicas completas e eficientes.
 
 Atualmente, nosso principal foco de desenvolvimento é o **Sistema Integrado de Gestão da Célula de Manutenção (SIG-Manutenção)**, criado em parceria com o **Instituto Robótica Sustentável**.
 
