@@ -26,7 +26,7 @@ Atualmente, nosso principal foco de desenvolvimento é o **Sistema Integrado de 
 | **Nome Completo** |
 | :--- |
 | Cátia Luzia Oliveira da Silva |
-| Wellington Wagner Ferreira Sarmento |
+| [Wellington Wagner Ferreira Sarmento](https://github.com/wwagner33) |
 
 ---
 
