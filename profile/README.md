@@ -25,8 +25,8 @@ Atualmente, nosso principal foco de desenvolvimento é o **Sistema Integrado de 
 
 | **Nome Completo** | **Contato** |
 | :--- | :--- |
-| Cátia Luzia Oliveira da Silva | 📧 [Email Institucional](mailto:catia@virtual.ufc.br) |
-| Wellington Wagner Ferreira Sarmento | 📧 [Email Institucional](mailto:wwagner@virtual.ufc.br) |
+| Cátia Luzia Oliveira da Silva |
+| Wellington Wagner Ferreira Sarmento |
 
 ---
 
