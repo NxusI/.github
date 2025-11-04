@@ -23,7 +23,7 @@ Atualmente, nosso principal foco de desenvolvimento é o **Sistema Integrado de 
 
 ## 🧑‍🏫 Professores Orientadores
 
-| **Nome Completo** | **Contato** |
+| **Nome Completo** |
 | :--- | :--- |
 | Cátia Luzia Oliveira da Silva |
 | Wellington Wagner Ferreira Sarmento |
