@@ -44,5 +44,3 @@ Atualmente, nosso principal foco de desenvolvimento é o **Sistema Integrado de 
 ## 💻 Nossos Repositórios
 
 [Sistema Integrado de Gestão da Célula de Manutenção](https://github.com/NxusI/SIG-Manutencao)
-
-[Teste de Tecnologias](https://github.com/NxusI/Teste-Tecnologias)
